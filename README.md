@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://quantumhunts.com/user/assets/images/hero/hiring-team.png" height="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif" height="100px"/></a>
  
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohit</h1>
