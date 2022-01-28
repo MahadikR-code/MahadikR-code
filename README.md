@@ -52,7 +52,7 @@
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://github.com/MahadikR-code/MahadikR-code)
+![GitHub Views](https://komarev.com/ghpvc/?username=MahadikR-code&color=FAC151)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahadikR-code&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
