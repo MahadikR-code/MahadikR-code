@@ -2,7 +2,7 @@
 
 <h3 align="center">An Enthusiast, Open-source Contributor and Life-Long Learner</h3>
 <br>
-<img width="25%" align="right" alt="Github Header" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47qzu5oxalhsamyvmiwahkxofcg2ytn2zafmbhlnhh&rid=giphy.gif&ct=g " width="25px" />
+<img width="30%" align="right" alt="Github Header" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47qzu5oxalhsamyvmiwahkxofcg2ytn2zafmbhlnhh&rid=giphy.gif&ct=g " width="30px" />
 
 ## Little About Me!!📜:
 <p>
@@ -11,9 +11,9 @@
 - Looking for opportunities and collaborations in the field of Software And Web Development. ✅<br>
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪<br>
 - Planning to do something for my town in the near future. 📝
-</p><br><br>
+</p>
 
-<img width="30%" align="right" alt="Github Header" src="Images/coding_2.gif" /><br>
+<img width="30%" align="right" alt="Github Header" src="Images/coding_2.gif" />
 
 <h2 align="left">Interests:</h2>
 
@@ -73,10 +73,10 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahadikR-code&theme=chartreuse-dark" />
 </p>  
 
-<a href="https://gitstalk.netlify.app/Mahadik-code/" target="_blank"> See My Latest Activities Here</a>
+<a href="https://gitstalk.netlify.app/MahadikR-code/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 50%>
+<img src ="Images/social_dashboard.svg" align = "left" width = 70%>
 <div>
 <h2  > Connect with me</h2>
   
@@ -86,12 +86,8 @@
 <br><br>
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/?hl=en)
 <br><br>
-[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/)
-<br><br>
-[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/)
-<br><br>
-[<img align="top" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/)
-<br><br>
+
+
   
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
