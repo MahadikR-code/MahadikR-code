@@ -76,9 +76,9 @@
 <a href="https://gitstalk.netlify.app/MahadikR-code/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 70%>
+<img src ="Images/social_dashboard.svg" align = "left" width = 40%><br><br>
 <div>
-<h2  > Connect with me</h2>
+<h2 align="left"> Connect with me!! 🤝</h2>
   
 [<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rohit-mahadik-958b9318b)
 <br><br>
