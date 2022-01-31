@@ -76,7 +76,7 @@
 <a href="https://gitstalk.netlify.app/MahadikR-code/" target="_blank"> See My Latest Activities Here</a>
   
 
-<img src ="Images/social_dashboard.svg" align = "left" width = 40%><br><br>
+<img src ="Images/social_dashboard.svg" align = "left" width = 40%>
 <div>
 <h2 align="left"> Connect with me!! 🤝</h2>
   
@@ -88,7 +88,7 @@
 <br><br>
 
 
-  
+ <br><br> 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
